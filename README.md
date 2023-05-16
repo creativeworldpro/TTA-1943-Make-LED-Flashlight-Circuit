@@ -14,6 +14,7 @@ LED flashers are semiconductor integrated circuits used to turn on and off group
 The flasher is built to offset the low amperage draw that LEDs operate on and will not cause rapid flashing. Additionally, the flasher relay has the unique ability to control the flash rate of the vehicles LED directional indicators. This can include, but is not limited to, light, fog, deck, and grill lamps.
 
 
+
 Component List - 
 
 To make a mini LED flash light, the circuit can be enclosed in a small plastic or metal casing with a switch to turn it on and off. A small keychain or lanyard can also be attached to the casing to make it easy to carry around.
@@ -21,6 +22,7 @@ To make a mini LED flash light, the circuit can be enclosed in a small plastic o
 Additional components, such as capacitors or transistors, can be added to the circuit to control the brightness or flashing pattern of the LED.
 
 All component lists have to been given below.
+
 
 Component List -
 
@@ -35,6 +37,7 @@ Component List -
 •	LED - 5mm
 
 •	Power Source - DC 12v
+
 
 
 Transistor Pin Out - 
@@ -52,6 +55,7 @@ Here is the pinout of the TTA1943 transistor:
 •	Collector
 
 •	Emitter
+
 
 
 Feature of LED Flasher Light -
@@ -75,6 +79,7 @@ Feature of LED Flasher Light -
 •	Low heat generation
 
 •	Multiple LED support
+
 
 
 Make 12v LED Light -
@@ -138,6 +143,7 @@ If you are a new user, then you can order 10 pieces PCBs, costing only $2. To pl
 Confirm your shipping address and shipping method.
 
 
+
 Steps to Order SMT PCBs from JLCPCB - 
 
 To order your SMT PCBs, visit JLCPCB.
@@ -161,6 +167,8 @@ To order your SMT PCBs, visit JLCPCB.
 •	For SMT Service, Click here.
 
 
+
+
 Shipping and Billing -
 
 JLCPCB supported all shipping method can be seen below.
@@ -182,6 +190,7 @@ Estimated Delivery Time -
 •	ePacket 15-25 business days
 
 •	Registered Air Mail 15-20 business days
+
 
 
 
