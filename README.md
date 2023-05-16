@@ -25,10 +25,15 @@ All component lists have to been given below.
 Component List -
 
 •	PCB - made by JLCPCB
+
 •	Transistor - TTA 1943
+
 •	Capacitor - 470µf/ 25v
+
 •	Resistor - 100 KΩ
+
 •	LED - 5mm
+
 •	Power Source - DC 12v
 
 
@@ -43,21 +48,32 @@ Please note that the pinout diagram of the TTA1943 transistor is the same as tha
 Here is the pinout of the TTA1943 transistor:
 
 •	Base
+
 •	Collector
+
 •	Emitter
 
 
 Feature of LED Flasher Light -
 
 •	Low component count
+
 •	Low power consumption
+
 •	Adjustable flashing rate
+
 •	Wide operating voltage range
+
 •	Compact size
+
 •	Easy to integrate
+
 •	Reliable
+
 •	Easy to modify
+
 •	Low heat generation
+
 •	Multiple LED support
 
 
@@ -127,13 +143,21 @@ Steps to Order SMT PCBs from JLCPCB -
 To order your SMT PCBs, visit JLCPCB.
 
 •	Drag and drop SMT PCBs file on site.
+
 •	Choose your PCBs color and quantity.
+
 •	To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+
 •	Add your BOM file and CPL file.
+
 •	Place your order click on “Save to Cart” button.
+
 •	Confirm your shipping address and shipping method.
+
 •	Pay your payment
+
 •	Wait for confirmation mail.
+
 •	For SMT Service, Click here.
 
 
@@ -144,12 +168,19 @@ JLCPCB supported all shipping method can be seen below.
 Estimated Delivery Time -
 
 •	DHL International Express 3-5 business days
+
 •	UPS Worldwide Saver 3-6 business days
+
 •	S.F Express (Standard) 5-8 business days
+
 •	S.F Express (Economy) 8-15 business days
+
 •	Singapore EMS 8-15 business days
+
 •	Post Link Registered Mail 15-20 business days
+
 •	ePacket 15-25 business days
+
 •	Registered Air Mail 15-20 business days
 
 
@@ -157,7 +188,9 @@ Estimated Delivery Time -
 JLCPCB supported Payment method - 
 
 •	PayPal
+
 •	Credit/Debit Care
+
 •	Prepaid wire transfer
 
 
